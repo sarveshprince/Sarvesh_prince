@@ -3,3 +3,4 @@ Hello there! 👋 I'm a passionate and ambitious college student with a zest for
 I thrive on the dynamic intersection of code and creativity. My GitHub repository is a canvas where I paint my journey in the world of programming, showcasing projects that reflect my dedication to learning and problem-solving.
 From web development to data science, I enjoy exploring diverse domains in the vast realm of computer science. Proficient in languages such as HTML,CSS,JAVASCRIPT,PYTHON AND C++. I'm not just a coder but a collaborative team player. My projects highlight a blend of theoretical knowledge and hands-on experience, demonstrating my commitment to turning ideas into tangible solutions.
 Driven by a curiosity to push boundaries and a commitment to continuous improvement, I welcome challenges that allow me to grow both as a developer and an individual. Let's connect, collaborate, and create something extraordinary together! 🚀
+    
