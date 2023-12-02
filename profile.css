@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin:  0px;
+    box-sizing: border-box;
+}
+.back
+{
+    background-color: black;
+}
+.port
+{
+    color:red;
+    font-size: 24px;
+}
